@@ -1,0 +1,131 @@
+---
+title: "Zerui Zhang"
+author: Zerui Zhang
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>zerui.zhang@tufts.edu
+- <i class="fa fa-github"></i> [github.com/zeruizh/](https://github.com/zeruizh/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Data Visualization in **Tableau**
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication**
+
+- Wrote production-level **R/Python/SQL** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Zerui Zhang {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2022 job
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2019--Current
+
+
+### Northeastern University
+
+B.S. in Mathematics
+
+Boston, MA
+
+2014--2019
+
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Member Services/Database Assistant
+
+MIT Energy Initiative
+
+Cambridge, MA
+
+Jan.-Jun. 2018
+
+- Member database management: data entry and clean up, monitoring activity
+- Worked closely with Filemaker development team on internal database
+- Worked in Excel to produce Quarterly Reports for Sponsors based on project funding/spending
+
+
+
+Internship Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Data Analyst Internship (Remote) 
+
+Peltast Partners
+
+Remote
+
+Summer 2017
+
+<!--::: concise-->
+- Interpreted data, analyzed results using statistical techniques(Excel)and provided ongoing reports
+- Acquired data from primary or secondary data sources and delivered to manager
+- Worked with management to prioritize business and information needs
+<!--:::-->
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### PSY208 Final Project
+Investigated how variables like GRE score, GPA, and the prestige of undergraduate institution would affect the admission rate into graduate school using logistic regression model, and conducted a simulation to investigate how different levels of collinearity between predictors would affect the performance of the model.
+
+Medford, MA
+
+Spring 2021
+
+
